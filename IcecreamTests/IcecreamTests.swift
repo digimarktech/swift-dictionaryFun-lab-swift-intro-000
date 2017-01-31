@@ -157,5 +157,6 @@ class IcecreamTests: XCTestCase {
         
         XCTAssertEqual(list, expectedList, "Your list is not correct. Make sure that you're not adding a new line after the last person")
     }
+ 
 
 }
